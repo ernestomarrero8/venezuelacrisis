@@ -1,6 +1,5 @@
-# venezuelacrisis
 
-# Proyecto de Colaboración - Crisis Electoral en Venezuela 2024
+# Crisis Electoral en Venezuela 2024
 
 ## Descripción
 
