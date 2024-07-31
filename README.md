@@ -1,4 +1,3 @@
-
 # Crisis Electoral en Venezuela 2024
 
 ## Descripción
