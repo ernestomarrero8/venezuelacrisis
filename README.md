@@ -5,6 +5,8 @@
 
 Este repositorio contiene el código y los datos relacionados con la crisis electoral en Venezuela en 2024. El objetivo es documentar y proporcionar recursos para entender los eventos, reacciones y consecuencias de las elecciones presidenciales del 28 de julio de 2024.
 
+Para ver el mapa se puede utilizar la siguiente herramienta https://markmap.js.org/repl
+
 ## Contenido
 
 - **markmap**: Mapa conceptual en formato markmap que explica la situación electoral en Venezuela.
